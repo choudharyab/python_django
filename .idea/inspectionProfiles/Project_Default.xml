@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pharajinnyapi.pharajinnyserverapi.urls.pharajinnyserverapi" />
+          <option value="pharajinnyapi.pharajinnyserverapi.serializers.pharajinnyserverapi" />
+          <option value="format_suffix_patterns" />
+          <option value="pharajinnyapi.pharajinnyapi.urls.pharajinnyserverapi" />
+          <option value="pharajinnyserverapi.views.pharjinny_registration" />
+          <option value="pharajinnyserverapi.urls.django" />
+          <option value="pharajinnyserverapi.views.django" />
+          <option value="pharajinnyserverapi.models.django" />
+          <option value="wikiApi" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
